@@ -9,8 +9,8 @@ A self-hosted Discord bot that:
 - Optionally exposes a small HTTP server to host large video files
 
 > Note: The HTTP server includes basic watch / player pages and oEmbed metadata, but **in-frame/embedded video players may not work on all platforms or all the time**. Treat this project primarily as a **media downloader** with a simple file host.
-
-## Features
+- the original language is vietnamese please translate keyword/ trigger word for image generation/ websearch/ persona you can customize (currenty arona from blue archive)
+## Features 
 
 - **LLM chat**: Talk to Arona in Discord, backed by configurable LLM providers.
 - **Media downloading**: Detects supported URLs, downloads video with `yt-dlp` and uploads to Discord if small enough.
